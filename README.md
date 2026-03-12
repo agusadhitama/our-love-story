@@ -1,30 +1,61 @@
 💌 Our Love Story
+=================
 
-Selamat datang di Our Love Story 💖 - sebuah halaman web interaktif yang aku buat sebagai hadiah digital untuk kamu.
+Selamat datang di **Our Love Story** 💖
+Halaman web interaktif yang dibuat sebagai **hadiah digital penuh cinta**.
 
-Ini bukan sekadar kode biasa… ini adalah catatan perjalanan kita dalam bentuk digital: dari momen pertama, foto-foto spesial, sampai detik-detik kita bersama yang dihitung otomatis setiap hari. ✨
+Ini bukan sekadar kode… ini adalah **catatan perjalanan kita** dalam bentuk digital:
+dari momen pertama, foto-foto spesial, hingga hitungan waktu kita bersama setiap hari. 🌹✨
 
-Buka halaman ini, dan rasakan kisah kita hidup di layar! 🌹
+Buka halaman ini, dan rasakan kisah kita hidup di layar! 💫
+
+--------------------------------------------------
 
 🌟 Fitur Utama
+--------------
 
 ⏳ Hitung Waktu Bersama
-Lihat berapa lama kita sudah bersama sejak hari spesial itu. Setiap detik adalah cerita.
+   Lihat berapa lama kita sudah bersama sejak hari spesial itu.
+   Setiap detik adalah cerita.
 
 ❤️ Efek Hati & Confetti
-Klik tombol-tombol interaktif, dan saksikan layar dipenuhi hati dan confetti, simbol kebahagiaan kita.
+   Klik tombol interaktif, dan saksikan layar dipenuhi hati & confetti —
+   simbol kebahagiaan kita.
 
 🖼️ Galeri Foto
-Koleksi foto-foto favorit kita yang menceritakan perjalanan kita dalam gambar.
+   Koleksi foto-foto favorit yang menceritakan perjalanan kita dalam gambar.
 
 🌈 Animasi & Interaksi
-Halaman ini dibuat dinamis dengan animasi lembut untuk menambah keseruan dan romantisme.
+   Halaman ini dibuat dinamis dengan animasi lembut
+   untuk menambah keseruan dan romantisme.
+
+--------------------------------------------------
 
 🚀 Cara Menikmati Halaman
+-------------------------
 
-Buka link berikut di browser favoritmu:
-https://agusadhitama.github.io/our-love-story/
+1. Buka browser favoritmu.
+2. Akses halaman: https://agusadhitama.github.io/our-love-story/
+3. Klik tombol interaktif untuk melihat efek hati & confetti.
+4. Nikmati setiap momen perjalanan kita 🌟
 
-Klik tombol-tombol interaktif untuk melihat efek hati & confetti
+--------------------------------------------------
 
-Nikmati setiap momen perjalanan kita 🌟
+🗂️ Struktur Proyek
+------------------
+
+our-love-story/
+├─ index.html        # Halaman utama
+├─ style.css         # Styling halaman
+├─ script.js         # Logika interaktif & animasi
+├─ photos/           # Koleksi foto-foto spesial
+└─ README.md         # File ini
+
+--------------------------------------------------
+
+💡 Tips & Catatan
+-----------------
+
+- Halaman ini **responsif**, tapi pengalaman terbaik di layar yang lebih lebar.
+- Semua efek interaktif bisa dicoba sesuka hati.
+- Halaman ini dibuat **penuh cinta & kenangan**, jadi setiap klik adalah momen kita. 💞
