@@ -41,18 +41,6 @@ Buka halaman ini, dan rasakan kisah kita hidup di layar! 💫
 
 --------------------------------------------------
 
-🗂️ Struktur Proyek
-------------------
-
-our-love-story/
-├─ index.html        # Halaman utama
-├─ style.css         # Styling halaman
-├─ script.js         # Logika interaktif & animasi
-├─ photos/           # Koleksi foto-foto spesial
-└─ README.md         # File ini
-
---------------------------------------------------
-
 💡 Tips & Catatan
 -----------------
 
